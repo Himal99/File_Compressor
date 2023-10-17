@@ -15,11 +15,11 @@ public class Screenshot {
             Robot r = new Robot();
 
             // It saves screenshot to desired path
-            String path = "C:\\Users\\Himal Rai\\Desktop\\test.jpg";
+            String path = "C:\\Users\\Himal Rai\\Desktop\\test2.jpg";
 
             // Used to get ScreenSize and capture image
             Rectangle capture =
-                    new Rectangle(new Dimension(200,200));
+                    new Rectangle(new Dimension(2000,500));
             BufferedImage Image = r.createScreenCapture(capture);
             ImageIO.write(Image, "jpg", new File(path));
             System.out.println("Screenshot saved");
