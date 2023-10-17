@@ -1,0 +1,3 @@
+# File_Compressor
+
+A file compressor built using Java and Apache PDFBox offers a powerful solution for reducing the size of PDF documents. Leveraging PDFBox's capabilities, this tool enables users to efficiently compress PDF files while preserving their content and quality. By implementing various compression techniques, such as image optimization and content stream compression, it significantly reduces the file size, making it ideal for archiving, sharing, or optimizing digital documents. With the versatility of Java and the feature-rich PDFBox library, this file compressor ensures that PDF files are streamlined without compromising their integrity, making it a valuable asset for anyone seeking to manage or distribute PDF documents efficiently.
